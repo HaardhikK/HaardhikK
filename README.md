@@ -9,7 +9,7 @@
 
 <div align="center">
  
-  I’m an **Ml, Web and Ui-Ux ** developer.
+  I’m an **Ml, Web and Ui-Ux** developer.
 
  </div>
  
