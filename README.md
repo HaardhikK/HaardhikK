@@ -2,11 +2,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Haardhik+Kunder!;" />
 </h1>
-<hr/>
+
 <h3 align="center">A passionate software developer from India</h3>
 
 <div align="center">
-  I’m an Ml, Web and Ui-Ux developer.
+  I’m a Ml, Web and Ui-Ux developer.
 
  </div>
  <br />
@@ -24,7 +24,7 @@
 
  <hr/>
  
-<h2 align="center"> Languages-Frameworks-Tools I use </h2>
+<h2 align="center"> Languages-Frameworks I Use </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,tensorflow,javascript,express,cpp" /><br>
