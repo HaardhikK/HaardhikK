@@ -9,8 +9,7 @@
 
 <div align="center">
  
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+  I’m an **Ml, Web and Ui-Ux ** developer.
 
  </div>
  
@@ -28,7 +27,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools I use </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,c" /><br>
