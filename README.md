@@ -11,7 +11,7 @@
  </div>
  <br />
 <div align="center"> 
-  <a href="kunderhaardhik@gmail.com">
+  <a href="mailto:kunderhaardhik@gmail.com ?body=Hello">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/haardhik-kunder-31766b235/" target="_blank">
