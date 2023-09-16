@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <div align="center">
-  I’m an **Ml, Web and Ui-Ux** developer.
+  I’m an Ml, Web and Ui-Ux developer.
 
  </div>
  <br />
