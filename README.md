@@ -5,12 +5,8 @@
 <hr/>
 <h3 align="center">A passionate software developer from India</h3>
 
-<br/>
-
 <div align="center">
- 
   I’m an **Ml, Web and Ui-Ux** developer.
-
  </div>
  
 <div align="center"> 
