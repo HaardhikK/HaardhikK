@@ -27,7 +27,7 @@
 <h2 align="center"> Languages-Frameworks I Use </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,tensorflow,javascript,express,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,flask,selenium,github,python,tensorflow,javascript,express,cpp" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
 </div>
 
