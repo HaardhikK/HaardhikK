@@ -29,23 +29,23 @@
     <img src="https://skillicons.dev/icons?i=react,mysql,mongodb,html,css,vscode,figma,git" />
 </div>
 
-<hr/>
-<h2 align="center">📌 Notable Projects</h2>
+
+<!-- <h2 align="center">📌 Notable Projects</h2>
 <ul>
   <li><b>Arthantar:</b> Contextual Translation with LLMs, Coreference Analysis & Knowledge Graphs.</li>
   <li><b>Hybrid Predictive Modeling for Formula 1 Races:</b> Integrating Random Forest & Graph Neural Networks.</li>
   <li><b>Emotion-Aware Indian Sign Language Recognition:</b> Multimodal approach with CNN & LSTM.</li>
   <li><b>Stock Market & Sentiment-Based News Recommender:</b> Real-time financial insights with ML & NLP.</li>
   <li><b>Distributed Training of LLMs with RLHF:</b> Researching scalable optimization techniques for AI models.</li>
-</ul>
+</ul> -->
 
-<hr/>
-<h2 align="center">📚 Publications</h2>
+
+<!-- <h2 align="center">📚 Publications</h2>
 <ul>
   <li>Deep Learning Techniques for Topic Modeling of Natural Disaster Tweets (SoCTA 2024, Springer).</li>
   <li>Hybrid Predictive Modeling for Formula 1 Race Outcomes (ICCSIA 2024).</li>
   <li>Emotion-Aware Indian Sign Language Recognition (Educational Administration Journal, 2024).</li>
-</ul>
+</ul> -->
 
 <hr/>
 <h3 align="center">
