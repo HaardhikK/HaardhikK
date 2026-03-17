@@ -59,5 +59,5 @@ Automation :: Playwright · Selenium · Docker
 }
 ```
 
-### > sudo rm -rf /root/generic_ai_slop
-`[DONE]: System is 100% authentic.`
+### > sudo rm -rf ai_slop
+`[ok]: nothing to remove — system clean`
