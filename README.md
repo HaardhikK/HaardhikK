@@ -53,8 +53,7 @@ Automation :: Playwright · Selenium · Docker
 ```json
 {
   "email": "kunderhaardhik@gmail.com",
-  "linkedin": "haardhik-kunder",
-  "github": "Haardhikk",
-  "status": "seeking_student_worker_roles"
+  "linkedin": "https://www.linkedin.com/in/haardhik-kunder",
+  "github": "https://github.com/HaardhikK/HaardhikK"
 }
 ```
