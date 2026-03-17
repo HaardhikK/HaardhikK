@@ -58,6 +58,3 @@ Automation :: Playwright · Selenium · Docker
   "status": "seeking_student_worker_roles"
 }
 ```
-
-### > sudo rm -rf ai_slop
-`[ok]: nothing to remove — system clean`
